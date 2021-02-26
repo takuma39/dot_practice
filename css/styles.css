@@ -78,3 +78,21 @@ header {
   font-size: 24px;
   margin: 0;
 }
+
+.info p {
+  margin: 0;
+  margin-bottom: 16px;
+}
+
+.info ul {
+  margin: 0;
+  padding: 0;
+  /* リストの黒丸を削除 */
+  list-style: none;
+  /* 横並び */
+  display: flex;
+}
+
+.info ul li {
+  margin-right: 8px;
+}
