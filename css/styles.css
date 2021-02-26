@@ -20,6 +20,16 @@ body {
   color: #333;
   /* フォントの型の変更 最初に指定した文字がなければ、次に指定したものが適用される */
   font-family: Verdana, sans-serif;
+
+  /* 余白の設定 */
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  /* 前後左右0pxの場合 */
+  margin: 0px;
+  /* 0pxの場合、pxを省略 */
+  margin: 0;
 }
 
 header {
