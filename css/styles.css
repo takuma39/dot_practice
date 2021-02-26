@@ -52,6 +52,21 @@ header {
   background-color: skyblue;
 }
 
+.icon img {
+  /* アイコンを丸くする */
+  /* border-radius: 50px; */
+  border-radius: 50%;
+
+  /* 枠の幅 */
+  border-width: 4px;
+
+  /* 枠の種類 (普通の線) */
+  border-style: solid;
+
+  /* 枠の色 */
+  border-color: white;
+}
+
 .info {
   background-color: tomato;
   margin-left: 32px;
