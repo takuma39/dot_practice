@@ -112,4 +112,18 @@ header {
   font-size: 24px;
   /* 要素の中のテキストの行揃えを中央揃え */
   text-align: center;
+  margin: 60px 0;
+}
+
+.works > section {
+  margin: 60px 0;
+}
+
+.works > section > h1 {
+  font-weight: normal;
+}
+
+.works p {
+  /* 行の幅 (1.8倍) */
+  line-height: 1.8;
 }
