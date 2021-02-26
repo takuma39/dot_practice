@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.formatOnSave": true
+  },
+  "emmet.includeLanguages": {
+    "ejs": "html",
+    },
+  "prettier.eslintIntegration": true,
+  "files.associations": {
+    "*.ejs": "html"
+  }
+}
