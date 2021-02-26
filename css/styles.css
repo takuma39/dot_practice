@@ -21,3 +21,8 @@ body {
   /* フォントの型の変更 最初に指定した文字がなければ、次に指定したものが適用される */
   font-family: Verdana, sans-serif;
 }
+
+header {
+  /* 背景色の変更 */
+  background-color: #efefef;
+}
