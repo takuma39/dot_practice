@@ -71,3 +71,10 @@ header {
   background-color: tomato;
   margin-left: 32px;
 }
+
+.info h1 {
+  /* h1のデフォルト設定を変更 */
+  font-weight: normal;
+  font-size: 24px;
+  margin: 0;
+}
