@@ -44,4 +44,15 @@ header {
   /* margin-left: auto;
   margin-right: auto; */
   margin: 0 auto;
+  /* 親要素内にあるものを横並び */
+  display: flex;
+}
+
+.icon {
+  background-color: skyblue;
+}
+
+.info {
+  background-color: tomato;
+  margin-left: 32px;
 }
