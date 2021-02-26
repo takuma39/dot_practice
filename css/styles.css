@@ -127,3 +127,10 @@ header {
   /* 行の幅 (1.8倍) */
   line-height: 1.8;
 }
+
+footer p {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 60px;
+  color: gray;
+}
